@@ -10,6 +10,8 @@
 
 <div style="width: 100%; margin-top: 60px;">
     <div style="width: 65%; margin-left: auto; margin-right: auto;">
+    @using (Html.BeginForm("ShortenUrl", "Home", FormMethod.Post))
+    {
         <form id="form" style="text-align: center;" asp-controller="Home" asp-action="ShortenUrl" method="post">
             <input
                 type="text"
@@ -23,5 +25,6 @@
                 Shorten Url
             </button>
         </form>
+    }
     </div>
 </div>

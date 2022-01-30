@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643573754843</updated>
       <workItem from="1643573759195" duration="8486000" />
-      <workItem from="1643582420429" duration="325000" />
+      <workItem from="1643582420429" duration="738000" />
     </task>
     <servers />
   </component>
@@ -164,19 +164,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/UrlShortenerApi/Controllers/Home/HomeController.cs</url>
-          <line>23</line>
-          <properties documentPath="C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi\Controllers\Home\HomeController.cs" initialLine="23" containingFunctionPresentation="method 'Index'">
-            <startOffsets>
-              <option value="612" />
-            </startOffsets>
-            <endOffsets>
-              <option value="671" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

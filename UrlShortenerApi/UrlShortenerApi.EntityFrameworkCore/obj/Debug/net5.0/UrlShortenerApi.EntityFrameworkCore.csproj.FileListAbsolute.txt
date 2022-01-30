@@ -1,0 +1,15 @@
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\bin\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.deps.json
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\bin\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\bin\Debug\net5.0\ref\UrlShortenerApi.EntityFrameworkCore.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\bin\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.pdb
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\bin\Debug\net5.0\UrlShortenerApi.Data.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\bin\Debug\net5.0\UrlShortenerApi.Data.pdb
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\obj\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\obj\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\obj\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\obj\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\obj\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\obj\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\obj\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\obj\Debug\net5.0\ref\UrlShortenerApi.EntityFrameworkCore.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.EntityFrameworkCore\obj\Debug\net5.0\UrlShortenerApi.EntityFrameworkCore.pdb

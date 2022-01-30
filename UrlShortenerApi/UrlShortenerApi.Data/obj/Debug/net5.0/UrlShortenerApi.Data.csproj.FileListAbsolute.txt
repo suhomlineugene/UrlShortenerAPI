@@ -1,0 +1,15 @@
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\bin\Debug\net5.0\UrlShortenerApi.Data.deps.json
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\bin\Debug\net5.0\UrlShortenerApi.Data.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\bin\Debug\net5.0\ref\UrlShortenerApi.Data.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\bin\Debug\net5.0\UrlShortenerApi.Data.pdb
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\bin\Debug\net5.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\bin\Debug\net5.0\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\obj\Debug\net5.0\UrlShortenerApi.Data.csproj.AssemblyReference.cache
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\obj\Debug\net5.0\UrlShortenerApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\obj\Debug\net5.0\UrlShortenerApi.Data.AssemblyInfoInputs.cache
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\obj\Debug\net5.0\UrlShortenerApi.Data.AssemblyInfo.cs
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\obj\Debug\net5.0\UrlShortenerApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\obj\Debug\net5.0\UrlShortenerApi.Data.csproj.CopyComplete
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\obj\Debug\net5.0\UrlShortenerApi.Data.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\obj\Debug\net5.0\ref\UrlShortenerApi.Data.dll
+C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Data\obj\Debug\net5.0\UrlShortenerApi.Data.pdb

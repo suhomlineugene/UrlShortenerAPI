@@ -1,4 +1,5 @@
-﻿@{
+﻿@model List<UrlShortenerApi.Data.Dto.ShortLinkDto>
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -10,21 +11,55 @@
 
 <div style="width: 100%; margin-top: 60px;">
     <div style="width: 65%; margin-left: auto; margin-right: auto;">
-    @using (Html.BeginForm("ShortenUrl", "Home", FormMethod.Post))
-    {
-        <form id="form" style="text-align: center;" asp-controller="Home" asp-action="ShortenUrl" method="post">
-            <input
-                type="text"
-                placeholder="Enter Url ..."
-                style="width: 100%; border-radius: 5px; height: 45px;"
-                name="longUrl"/>
+        @using (Html.BeginForm("ShortenUrl", "Home", FormMethod.Post))
+        {
+            <form id="form" style="text-align: center;" asp-controller="Home" asp-action="ShortenUrl" method="post">
+                <input
+                    type="text"
+                    placeholder="Enter Url ..."
+                    style="width: 100%; border-radius: 5px; height: 45px;"
+                    name="longUrl"/>
 
-            <button
-                type="submit"
-                style="background-color: darkgreen; color: white; padding: 10px; margin-top: 25px; border-radius: 8px;">
-                Shorten Url
-            </button>
-        </form>
-    }
+                <button
+                    type="submit"
+                    style="background-color: darkgreen; color: white; padding: 10px; margin-top: 25px; border-radius: 8px;">
+                    Shorten Url
+                </button>
+            </form>
+        }
+    </div>
+
+    <div>
+        <table>
+            <thead>
+            <tr>
+                <th>
+                    Original Url
+                </th>
+                <th>
+                    Short Url
+                </th>
+                <th>
+                    Creation Date
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var b in Model)
+            {
+                <tr>
+                    <td>
+                        @b.OriginalUrl
+                    </td>
+                    <td>
+                        @b.ShortUrl
+                    </td>
+                    <td>
+                        @b.CreatedAt.ToString("MM/dd/yyyy")
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
     </div>
 </div>

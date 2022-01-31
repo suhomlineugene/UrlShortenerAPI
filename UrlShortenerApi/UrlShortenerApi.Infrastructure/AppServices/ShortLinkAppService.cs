@@ -19,7 +19,7 @@ namespace UrlShortenerApi.Infrastructure.AppServices
     {
         private readonly ApplicationDbContext _context;
         private readonly ILogger<ShortLinkAppService> _logger;
-        private const string ServiceUrl = "http://localhost:5001";
+        private const string ServiceUrl = "http://localhost:5002";
 
         public ShortLinkAppService(ApplicationDbContext context, ILogger<ShortLinkAppService> logger)
         {

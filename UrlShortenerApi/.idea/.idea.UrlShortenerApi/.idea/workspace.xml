@@ -75,6 +75,7 @@
       <workItem from="1643573759195" duration="8486000" />
       <workItem from="1643582420429" duration="738000" />
       <workItem from="1643583542932" duration="62000" />
+      <workItem from="1643613684717" duration="1017000" />
     </task>
     <servers />
   </component>
@@ -97,76 +98,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/UrlShortenerApi/Controllers/Home/HomeController.cs</url>
-          <line>37</line>
-          <properties documentPath="C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi\Controllers\Home\HomeController.cs" initialLine="37" containingFunctionPresentation="method 'ShortenUrl'">
-            <startOffsets>
-              <option value="941" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1013" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/UrlShortenerApi/Controllers/Home/HomeController.cs</url>
-          <line>39</line>
-          <properties documentPath="C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi\Controllers\Home\HomeController.cs" initialLine="39" containingFunctionPresentation="method 'ShortenUrl'">
-            <startOffsets>
-              <option value="1027" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1053" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/UrlShortenerApi.Infrastructure/AppServices/ShortLinkAppService.cs</url>
-          <line>31</line>
-          <properties documentPath="C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Infrastructure\AppServices\ShortLinkAppService.cs" initialLine="31" containingFunctionPresentation="method 'GenerateShortUrl'">
-            <startOffsets>
-              <option value="1032" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1083" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/UrlShortenerApi.Infrastructure/AppServices/ShortLinkAppService.cs</url>
-          <line>33</line>
-          <properties documentPath="C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Infrastructure\AppServices\ShortLinkAppService.cs" initialLine="33" containingFunctionPresentation="method 'GenerateShortUrl'">
-            <startOffsets>
-              <option value="1097" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1202" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/UrlShortenerApi.Infrastructure/AppServices/ShortLinkAppService.cs</url>
-          <line>51</line>
-          <properties documentPath="C:\Users\GamePC\Documents\GitHub\UrlShortenerAPI\UrlShortenerApi\UrlShortenerApi.Infrastructure\AppServices\ShortLinkAppService.cs" initialLine="51" containingFunctionPresentation="method 'GenerateShortUrl'">
-            <startOffsets>
-              <option value="1749" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1769" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

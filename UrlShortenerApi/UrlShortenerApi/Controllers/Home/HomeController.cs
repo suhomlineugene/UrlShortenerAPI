@@ -19,13 +19,15 @@ namespace UrlShortenerApi.Controllers.Home
         }
 
         [HttpGet]
-        public async Task<IActionResult> Index(string input)
+        public async Task<IActionResult> Index(string u)
         {
-            var shortLink = await _shortLinkAppService.Redirect(input);
+            var shortLink = await _shortLinkAppService.Redirect(u);
 
             if (shortLink == null)
             {
-                return View();
+                var shortLinks = await _shortLinkAppService.GetShortLinks();
+               
+                return View(shortLinks);
             }
 
             return Redirect(shortLink.OriginalUrl);
